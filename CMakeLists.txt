@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.17)
 
-project(opengl_setup)
+project(opengl_template)
 
 # compile dependencies
 add_subdirectory(libs)
